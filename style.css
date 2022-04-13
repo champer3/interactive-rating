@@ -119,6 +119,7 @@ button:hover{
     border-radius: 1.5rem;
 }
 
+/* for the paragraph */
 .rate p{
     color: hsl(25, 97%, 53%);
 }
